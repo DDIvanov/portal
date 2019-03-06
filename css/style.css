@@ -49,11 +49,6 @@ nav input {
     flex-basis: 60%;
 }
 
-
-nav .dropdown-menu {
-    left: -145px !important;
-}
-
 .news {
     margin-top: 25px;
 }
